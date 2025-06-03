@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\c#\\Ass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|g:\\c#\\ass\\librarymanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|g:\\c#\\ass\\librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|g:\\c#\\ass\\librarymanagementsystem\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "G:\\c#\\Ass\\LibraryManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\MainForm.cs",
+              "ToolTip": "G:\\c#\\Ass\\LibraryManagementSystem\\MainForm.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:23:59.921Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddBooks.cs [Design]",
+              "DocumentMoniker": "G:\\c#\\Ass\\LibraryManagementSystem\\AddBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\AddBooks.cs",
+              "ToolTip": "G:\\c#\\Ass\\LibraryManagementSystem\\AddBooks.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\AddBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:23:58.655Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\c#\\Ass\\LibraryManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Form1.cs",
+              "ToolTip": "G:\\c#\\Ass\\LibraryManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:23:55.835Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
